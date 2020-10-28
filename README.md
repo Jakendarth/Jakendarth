@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-![I am a Naval Architect and Marine Engineer ](https://github.com/Jakendarth/Jakendarth/blob/main/banner.png)
+![I am a Naval Architect and Marine Engineer ](https://github.com/Jakendarth/Jakendarth/blob/main/gitbanner.png)
 ### Hi there 👋, my name is Nikos. I am a Naval Architect and Marine Engineer! 
 ![Profile views](https://gpvc.arturio.dev/Jakendarth) 
 
