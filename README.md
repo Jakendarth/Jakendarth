@@ -21,7 +21,7 @@ I graduated from the National Technical University of Athens and now I am workin
 []()| []()
 :-------------------------:|:-------------------------:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakendarth&show_icons=true)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakendarth)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jakendarth) |  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jakendarth) |  Connect with me on Linked[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/nkougiatsos/)  
 
  
 
