@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 
 ### My name is Nikos and I am a Naval Architect and Marine Engineer! 
-![Profile views](https://gpvc.arturio.dev/Jakendarth) [<img src='https://github.com/Jakendarth/Jakendarth/blob/main/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/nkougiatsos/) 
+![Profile views](https://gpvc.arturio.dev/Jakendarth) <a href="mailto:kougiatsosn@gmail.com"><img alt="Gmail" height="20" src="https://github.com/Jakendarth/Jakendarth/blob/main/gmail.png" /></a> [<img src='https://github.com/Jakendarth/Jakendarth/blob/main/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/nkougiatsos/) 
 
 I graduated from the National Technical University of Athens and now I am working towards my PhD at TU Delft. This is my personal Github page where you can find some of my projects. I really enjoy programming and I hope I will be able to aid in unifying my discipline with well documented and easily accessible Software.
 
