@@ -18,14 +18,21 @@ Here are some ideas to get you started:
 </p>
 
 ### My name is Nikos and I am a Naval Architect and Marine Engineer! 
-![Profile views](https://gpvc.arturio.dev/Jakendarth) 
+![Profile views](https://gpvc.arturio.dev/Jakendarth) [<img src='https://github.com/Jakendarth/Jakendarth/blob/main/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/nkougiatsos/) 
 
 I graduated from the National Technical University of Athens and now I am working towards my PhD at TU Delft. This is my personal Github page where you can find some of my projects. I really enjoy programming and I hope I will be able to aid in unifying my discipline with well documented and easily accessible Software.
 
-[]()| []()
-:-------------------------:|:-------------------------:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakendarth&show_icons=true)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakendarth)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jakendarth) |  Connect with me on Linked[<img src='https://github.com/Jakendarth/Jakendarth/blob/main/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/nkougiatsos/)  
+<table class="no-border" cellspacing="0" cellpadding="0" style="border:none">
+  <tr>
+    <td align="center"> <img src='https://github-readme-stats.vercel.app/api?username=Jakendarth&show_icons=true'></td>
+    <td align="center"> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Jakendarth'> </td>
+  </tr>
+  <tr>
+    <td align="center"> <img src='https://github-readme-streak-stats.herokuapp.com/?user=Jakendarth'> </td>
+    <td align="center"> <img src='https://github.com/Jakendarth/Jakendarth/blob/main/002.gif' alt='work' height='350'> </td>
+  </tr>
+</table>
+
 
  #### ⚡ Fun fact: Cruise ship anchors weigh about as much as four elephants!
 
