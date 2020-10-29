@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 
 -->
 ![I am a Naval Architect and Marine Engineer ](https://github.com/Jakendarth/Jakendarth/blob/main/gitbanner.png)
-### Hi there 👋, my name is Nikos. I am a Naval Architect and Marine Engineer! 
+<p align="center">
+  <img src="https://github.com/Jakendarth/Jakendarth/blob/main/001.gif" />
+</p>
+
+### My name is Nikos and I am a Naval Architect and Marine Engineer! 
 ![Profile views](https://gpvc.arturio.dev/Jakendarth) 
 
 I graduated from the National Technical University of Athens and now I am working towards my PhD at TU Delft. This is my personal Github page where you can find some of my projects. I really enjoy programming and I hope I will be able to aid in unifying my discipline with well documented and easily accessible Software.
