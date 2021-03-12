@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 
 -->
 ![I am a Naval Architect and Marine Engineer ](https://github.com/Jakendarth/Jakendarth/blob/main/gitbanner.png)
-<p align="center">
-  <img src="https://github.com/Jakendarth/Jakendarth/blob/main/001.gif" />
-</p>
+
 
 ### My name is Nikos and I am a Naval Architect and Marine Engineer! 
 ![Profile views](https://gpvc.arturio.dev/Jakendarth) <a href="mailto:kougiatsosn@gmail.com"><img alt="Gmail" height="20" src="https://github.com/Jakendarth/Jakendarth/blob/main/gmail.png" /></a> [<img src='https://github.com/Jakendarth/Jakendarth/blob/main/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/nkougiatsos/) 
