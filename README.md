@@ -1,4 +1,4 @@
-## Dr. Nikos Kougiatsos | Naval Architect, Marine Engineer [Postdoctoral Researcher at TU Delft]
+## Dr. Nikos Kougiatsos, Naval Architect & Marine Engineer [Postdoctoral Researcher at TU Delft]
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nkougiatsos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
